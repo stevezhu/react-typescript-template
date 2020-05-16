@@ -6,15 +6,19 @@
   "license": "UNLICENSED",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "jest"
   },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "@types/jest": "^25.2.2",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
     "typescript": "^3.9.2"
   }
 }
