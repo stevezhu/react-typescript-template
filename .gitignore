@@ -1,3 +1,5 @@
 pnpm-debug.log
-node_modules/
-dist/
+.build
+build
+web_modules
+node_modules
