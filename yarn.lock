@@ -9932,10 +9932,10 @@ snapdragon@^0.8.1:
     source-map-resolve "^0.5.0"
     use "^3.1.0"
 
-snowpack@^2.2.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-2.3.1.tgz#b1df1e309b3425f048e0dff73b25c00ae1186b64"
-  integrity sha512-bOLWe43AJNz7C8x+ZD/qWBdYvZNgNs5M9AF/6M7tN9uqLDBrf5ZDREzjLc8PRXUNmQFA/meotnoWyPX/aFoFeg==
+snowpack@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-2.4.0.tgz#4a4552c6c7e0137f31581d89dd0ea43478049967"
+  integrity sha512-R/zKFBvJJr+I9F04eOm4mFagCjJs+cUT+k0z/CKG/5McDNQM5cOZelsyvei8UM5733qXHFEQ1pMDN7b+xZqKEA==
   dependencies:
     "@babel/plugin-syntax-import-meta" "^7.8.3"
     "@rollup/plugin-alias" "^3.0.1"
