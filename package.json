@@ -16,7 +16,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.2",
+    "@babel/core": "^7.10.4",
     "@snowpack/app-scripts-react": "^1.2.0",
     "@storybook/react": "^5.3.19",
     "@testing-library/jest-dom": "^5.10.1",
