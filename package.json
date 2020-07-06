@@ -28,7 +28,7 @@
     "jest": "^26.0.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "snowpack": "^2.5.1",
-    "typescript": "^3.9.2",
+    "typescript": "^3.9.6",
     "webpack": "^4.43.0"
   }
 }
