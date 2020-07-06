@@ -27,7 +27,7 @@
     "babel-loader": "^8.1.0",
     "jest": "^26.0.1",
     "react-docgen-typescript-loader": "^3.7.2",
-    "snowpack": "^2.5.1",
+    "snowpack": "^2.6.3",
     "typescript": "^3.9.2",
     "webpack": "^4.43.0"
   }
