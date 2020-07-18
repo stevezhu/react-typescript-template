@@ -9,3 +9,4 @@ Architecture:
 - Unit Testing: [Jest](https://jestjs.io)
 - UI Testing: [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - UI Component Explorer: [Storybook](https://storybook.js.org/)
+- Linter: [XO](https://github.com/xojs/xo)
