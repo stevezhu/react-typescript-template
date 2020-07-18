@@ -6,7 +6,7 @@ render(
   <StrictMode>
     <App />
   </StrictMode>,
-  document.getElementById('root')
+  document.querySelector('#root')
 );
 
 // Hot Module Replacement (HMR) - Remove this snippet to remove HMR.
