@@ -6,6 +6,7 @@ module.exports = {
   rules: {
     'import/no-anonymous-default-export': 'off',
     'import/no-unassigned-import': ['error', {allow: ['**/*.css']}],
+    'react/prop-types': 'off',
     'unicorn/filename-case': [
       'error',
       {cases: {camelCase: true, pascalCase: true}},
