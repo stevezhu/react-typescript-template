@@ -9,6 +9,7 @@
     "start": "snowpack dev",
     "build": "snowpack build",
     "test": "jest",
+    "pretest": "xo",
     "storybook": "start-storybook -p 6006"
   },
   "dependencies": {
