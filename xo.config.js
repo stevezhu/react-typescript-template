@@ -1,6 +1,7 @@
 module.exports = {
   extends: ['xo-react'],
   envs: ['browser', 'es2020', 'jest'],
+  parser: '@typescript-eslint/parser',
   space: true,
   prettier: true,
   rules: {
